@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exercise 2 - CI/CD pipeline setup
 
 In this exercise you will learn how to set up a CI/CD pipeline for automating tasks using a service called GitHub Actions.
@@ -338,6 +339,7 @@ ___
 Well done so far :tada:! Next, we'll deploy the app.
 
 ### [Go to exercise 3 :arrow_right:](../exercise-3/README.md)
+=======
 # Exercise 2 - CI/CD pipeline setup
 
 In this exercise you will learn how to set up a CI/CD pipeline for automating tasks using a service called GitHub Actions.
@@ -673,3 +675,4 @@ ___
 Well done so far :tada:! Next, we'll deploy the app.
 
 ### [Go to exercise 3 :arrow_right:](../exercise-3/README.md)
+>>>>>>> 31d7cf0d2d3fdaddaa3de6a5dbdeac7ccb6d4da6
